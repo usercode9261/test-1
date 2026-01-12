@@ -1,8 +1,6 @@
-NUMBER = int(input())
+HOURS = int(input("put the hours that you worked in this month: "))
 
-HOURS = int(input())
-
-SALARY_PER_HOUR = float(input())
+SALARY_PER_HOUR = float(input("put your salary per hour: "))
 
 SALARY = HOURS * SALARY_PER_HOUR
 
